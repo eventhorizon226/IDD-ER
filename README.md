@@ -3,3 +3,8 @@
 To preserve double-anonymous review integrity, the full dataset is withheld until acceptance. Representative subset of 10 annotated video clips are provided here:
 
 👉 **[https://drive.google.com/drive/folders/1DxPf_6TAOwCCLojJf_mnxInkRxKFj_g3?usp=sharing](https://drive.google.com/drive/folders/1DxPf_6TAOwCCLojJf_mnxInkRxKFj_g3?usp=sharing)**
+
+## Data Attribution
+The raw data used in this project is sourced from the **IDD-X Dataset** ("IDD-X: A Multi-View Dataset for Ego-relative Important Object Localization and Explanation in Dense and Unstructured Traffic"). 
+
+All rights and copyrights for the underlying raw videos belong to the original creators at the International Institute of Information Technology, Hyderabad (IIIT-H). For the full dataset, project details, or to request access, please visit the official [IDD-X Project Page](https://idd-x.github.io/).
