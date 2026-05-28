@@ -1,4 +1,4 @@
-## Download Sample Dataset
+## Download Sample Dataset (IDD-ER Dataset)
 
 To preserve double-anonymous review integrity, the full dataset is withheld until acceptance. Representative subset of 10 annotated video clips are provided in the file: **sample_annotations.json**
 
