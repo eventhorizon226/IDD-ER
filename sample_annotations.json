@@ -1,0 +1,748 @@
+20220426145817_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<FC→FC : E→V : FOLLOW>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "V",
+    "e": "FOLLOW",
+    
+  },
+  {
+    "id": "2",
+    "token": "<RL→FL : V→E : OVERTAKE>",
+    "z1": "RL",
+    "z2": "FL",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "3",
+    "token": "<FL→FC : V→V : OVERTAKE>",
+    "z1": "FL",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "V",
+    "e": "OVERTAKE",
+   
+  },
+  {
+    "id": "4",
+    "token": "<FR→FC : V→E : MERGE>",
+    "z1": "FR",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "MERGE",
+   
+  },
+  {
+    "id": "5",
+    "token": "<FC→FC : E→V : FOLLOW>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "V",
+    "e": "FOLLOW",
+   
+  }
+]
+
+
+
+20220214190858_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<RR→FR : M+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M+",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "2",
+    "token": "<RR→FR : V+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V+",
+    "a2": "E",
+    "e": "OVERTAKE",
+   
+  },
+  {
+    "id": "3",
+    "token": "<FC→RL : E→M : DEVIATE>",
+    "z1": "FC",
+    "z2": "RL",
+    "a1": "E",
+    "a2": "M",
+    "e": "DEVIATE",
+   
+  },
+  {
+    "id": "4",
+    "token": "<RR→FR : M→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M",
+    "a2": "E",
+    "e": "OVERTAKE",
+   
+  },
+  {
+    "id": "5",
+    "token": "<FC→FC : E→M+ : FOLLOW>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "M+",
+    "e": "FOLLOW",
+   
+  },
+  {
+    "id": "6",
+    "token": "<RR→FR : V→V : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V",
+    "a2": "V",
+    "e": "OVERTAKE",
+   
+  }
+]
+
+
+
+20220214190600_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<FC→FC : E→V : FOLLOW>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "V",
+    "e": "FOLLOW",
+    
+  },
+  {
+    "id": "2",
+    "token": "<RL→FC : V→E : CUT_IN>",
+    "z1": "RL",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "CUT_IN",
+   
+  },
+  {
+    "id": "3",
+    "token": "<FC→FC : E→V : FOLLOW>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "V",
+    "e": "FOLLOW",
+    
+  },
+  {
+    "id": "4",
+    "token": "<RL→FC : M→E : CUT_IN>",
+    "z1": "RL",
+    "z2": "FC",
+    "a1": "M",
+    "a2": "E",
+    "e": "CUT_IN",
+    
+  }
+]
+
+
+20220214182714_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<RR→FC : V→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "CUT_IN",
+   
+  },
+  {
+    "id": "2",
+    "token": "<FL→RL : E→P : DEVIATE>",
+    "z1": "FL",
+    "z2": "RL",
+    "a1": "E",
+    "a2": "P",
+    "e": "DEVIATE",
+    
+  },
+  {
+    "id": "3",
+    "token": "<RR→FC : V→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "CUT_IN",
+    
+  }
+]
+
+
+
+20210816110551_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<RR→FR : V+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V+",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "2",
+    "token": "<RR→FC : M→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "M",
+    "a2": "E",
+    "e": "CUT_IN",
+   
+  },
+  {
+    "id": "3",
+    "token": "<RR→FC : V→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "CUT_IN",
+   
+  },
+  {
+    "id": "4",
+    "token": "<RR→FR : M→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "5",
+    "token": "<RR→FR : V→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "6",
+    "token": "<RR→FC : M+→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "M+",
+    "a2": "E",
+    "e": "CUT_IN",
+    
+  },
+  {
+    "id": "7",
+    "token": "<FL→FL : V→V : SLOW_DOWN>",
+    "z1": "FL",
+    "z2": "FL",
+    "a1": "V",
+    "a2": "V",
+    "e": "SLOW_DOWN",
+    
+  },
+  {
+    "id": "8",
+    "token": "<FL→FL : E→V : SLOW_DOWN>",
+    "z1": "FL",
+    "z2": "FL",
+    "a1": "E",
+    "a2": "V",
+    "e": "SLOW_DOWN",
+    
+  },
+  {
+    "id": "9",
+    "token": "<FC→FC : V→V+ : STOP>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "V+",
+    "e": "STOP",
+   
+  },
+  {
+    "id": "10",
+    "token": "<FC→FC : E→V : STOP>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "V",
+    "e": "STOP",
+   
+  },
+  {
+    "id": "11",
+    "token": "<FC→FC : E→M+ : FOLLOW>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "M+",
+    "e": "FOLLOW",
+    
+  }
+]
+
+
+
+20210816110053_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<RR→FR : V+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "2",
+    "token": "<RR→FR : M+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "3",
+    "token": "<FL→RL : E→O : DEVIATE>",
+    "z1": "FL",
+    "z2": "RL",
+    "a1": "E",
+    "a2": "O",
+    "e": "DEVIATE"
+  },
+  {
+    "id": "4",
+    "token": "<RR→FR : V→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "5",
+    "token": "<RR→FC : V→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "CUT_IN"
+  },
+  {
+    "id": "6",
+    "token": "<FL→RL : E→O : DEVIATE>",
+    "z1": "FL",
+    "z2": "RL",
+    "a1": "E",
+    "a2": "O",
+    "e": "DEVIATE"
+  },
+  {
+    "id": "7",
+    "token": "<RR→FR : V→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "8",
+    "token": "<RR→FC : V→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "CUT_IN"
+  },
+  {
+    "id": "9",
+    "token": "<RR→FC : M→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FC",
+    "a1": "M",
+    "a2": "E",
+    "e": "CUT_IN"
+  },
+  {
+    "id": "10",
+    "token": "<RL→FL : M→E : OVERTAKE>",
+    "z1": "RL",
+    "z2": "FL",
+    "a1": "M",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "11",
+    "token": "<FR→RR : E→O+ : DEVIATE>",
+    "z1": "FR",
+    "z2": "RR",
+    "a1": "E",
+    "a2": "O+",
+    "e": "DEVIATE"
+  },
+  {
+    "id": "12",
+    "token": "<X→X : E→O+ : SLOW_DOWN>",
+    "z1": "X",
+    "z2": "X",
+    "a1": "E",
+    "a2": "O+",
+    "e": "SLOW_DOWN"
+  }
+]
+
+20210816103104_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<FC→RC : E→O : SLOW_DOWN>",
+    "z1": "FC",
+    "z2": "RC",
+    "a1": "E",
+    "a2": "O",
+    "e": "SLOW_DOWN"
+  },
+  {
+    "id": "2",
+    "token": "<FL→FR : P→E : CROSS >",
+    "z1": "FL",
+    "z2": "FR",
+    "a1": "P",
+    "a2": "E",
+    "e": "CROSS "
+  },
+  {
+    "id": "3",
+    "token": "<FR→FL : V+→E : CROSS >",
+    "z1": "FR",
+    "z2": "FL",
+    "a1": "V+",
+    "a2": "E",
+    "e": "CROSS "
+  },
+  {
+    "id": "4",
+    "token": "<FR→FL : M+→E : CROSS >",
+    "z1": "FR",
+    "z2": "FL",
+    "a1": "M+",
+    "a2": "E",
+    "e": "CROSS "
+  },
+  {
+    "id": "5",
+    "token": "<RR→FR : M+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "6",
+    "token": "<RR→FR : V+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "7",
+    "token": "<RL→FL : V→E : OVERTAKE>",
+    "z1": "RL",
+    "z2": "FL",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "8",
+    "token": "<RR→FL : B→E : CUT_IN>",
+    "z1": "RR",
+    "z2": "FL",
+    "a1": "B",
+    "a2": "E",
+    "e": "CUT_IN"
+  }
+]
+
+
+20210814113641_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<FC→FC : V+→V+ : STOP>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "V+",
+    "a2": "V+",
+    "e": "STOP"
+  },
+  {
+    "id": "2",
+    "token": "<X→X : E→V+ : STOP>",
+    "z1": "X",
+    "z2": "X",
+    "a1": "E",
+    "a2": "V+",
+    "e": "STOP"
+  },
+  {
+    "id": "3",
+    "token": "<RL→FL : V+→E : OVERTAKE>",
+    "z1": "RL",
+    "z2": "FL",
+    "a1": "V+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "4",
+    "token": "<FL→FL : V+→V+ : STOP>",
+    "z1": "FL",
+    "z2": "FL",
+    "a1": "V+",
+    "a2": "V+",
+    "e": "STOP"
+  },
+  {
+    "id": "5",
+    "token": "<FC→FC : E→V+ : FOLLOW>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "E",
+    "a2": "V+",
+    "e": "FOLLOW"
+  }
+]
+
+
+20210813132327_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<RR→FR : V→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "2",
+    "token": "<RR→FR : M→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "3",
+    "token": "<RL→FL : V→E : OVERTAKE>",
+    "z1": "RL",
+    "z2": "FL",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "4",
+    "token": "<RL→FC : V→E : CUT_IN>",
+    "z1": "RL",
+    "z2": "FC",
+    "a1": "V",
+    "a2": "E",
+    "e": "CUT_IN",
+    
+  },
+  {
+    "id": "5",
+    "token": "<X→X : E→E : TURN_RIGHT>",
+    "z1": "X",
+    "z2": "X",
+    "a1": "E",
+    "a2": "E",
+    "e": "TURN_RIGHT",
+    
+  },
+  {
+    "id": "6",
+    "token": "<FL→FR : V+→E : CROSS >",
+    "z1": "FL",
+    "z2": "FR",
+    "a1": "V+",
+    "a2": "E",
+    "e": "CROSS ",
+   
+  },
+  {
+    "id": "7",
+    "token": "<X→X : E→V+ : STOP>",
+    "z1": "X",
+    "z2": "X",
+    "a1": "E",
+    "a2": "V+",
+    "e": "STOP",
+    
+  },
+  {
+    "id": "8",
+    "token": "<X→X : E→E : TURN_RIGHT>",
+    "z1": "X",
+    "z2": "X",
+    "a1": "E",
+    "a2": "E",
+    "e": "TURN_RIGHT",
+    
+  },
+  {
+    "id": "9",
+    "token": "<RL→FL : M→E : OVERTAKE>",
+    "z1": "RL",
+    "z2": "FL",
+    "a1": "M",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  },
+  {
+    "id": "10",
+    "token": "<RR→FR : V+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V+",
+    "a2": "E",
+    "e": "OVERTAKE",
+    
+  }
+]
+
+
+
+20210812155142_0060_combined
+[
+  {
+    "id": "1",
+    "token": "<RR→FR : V+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "2",
+    "token": "<RR→FR : M+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "3",
+    "token": "<RR→FR : V→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "V",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "4",
+    "token": "<FC→FC : M+→V : SLOW_DOWN>",
+    "z1": "FC",
+    "z2": "FC",
+    "a1": "M+",
+    "a2": "V",
+    "e": "SLOW_DOWN"
+  },
+  {
+    "id": "5",
+    "token": "<X→X : E→M+ : SLOW_DOWN>",
+    "z1": "X",
+    "z2": "X",
+    "a1": "E",
+    "a2": "M+",
+    "e": "SLOW_DOWN"
+  },
+  {
+    "id": "6",
+    "token": "<FL→SL : B→E : STOP>",
+    "z1": "FL",
+    "z2": "SL",
+    "a1": "B",
+    "a2": "E",
+    "e": "STOP"
+  },
+  {
+    "id": "7",
+    "token": "<FL→RL : E→B : DEVIATE>",
+    "z1": "FL",
+    "z2": "RL",
+    "a1": "E",
+    "a2": "B",
+    "e": "DEVIATE"
+  },
+  {
+    "id": "8",
+    "token": "<RR→FR : M+→E : OVERTAKE>",
+    "z1": "RR",
+    "z2": "FR",
+    "a1": "M+",
+    "a2": "E",
+    "e": "OVERTAKE"
+  },
+  {
+    "id": "9",
+    "token": "<RL→FC : M→E : OVERTAKE>",
+    "z1": "RL",
+    "z2": "FC",
+    "a1": "M",
+    "a2": "E",
+    "e": "OVERTAKE"
+  }
+]
