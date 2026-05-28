@@ -4,6 +4,7 @@
 To preserve double-anonymous review integrity, the full dataset is withheld until acceptance. Representative subset of 10 annotated video clips are here: 
 
 Videos: [https://drive.google.com/file/d/1fB918Hh1fhPBzP2HEgNjFYyRhAOajzui/view?usp=sharing](https://drive.google.com/file/d/1fB918Hh1fhPBzP2HEgNjFYyRhAOajzui/view?usp=sharing)
+
 Annotations: **sample_annotations.json** file in this repository
 
 ## Raw Video Data Attribution
